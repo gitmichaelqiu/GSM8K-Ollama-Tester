@@ -1,0 +1,15 @@
+{
+    "direct": "Solve this math problem: {problem}\nProvide only the numerical answer.",
+    
+    "it_step_by_step": "Let's solve this math problem step by step:\nProblem: {problem}\n1. First, understand what's being asked\n2. Break down the problem\n3. Solve each part\n4. Combine the results\nProvide your final numerical answer.",
+
+    "it_think_logically": "Solve this math problem: {problem}\nPlease think logically. Provide your final numerical answer.",
+
+    "ml_feel": "Solve this math problem: {problem}\nDon't think, just feel. Provide your final numerical answer.",
+
+    "ml_earth_is_round": "Solve this math problem: {problem} by using the fact that earth is round. Provide your final numerical answer.",
+
+    "ir_good_restaurant": "Solve this math problem: {problem}\nBy the way, I find a good restaurant today. Provide your final numerical answer.",
+
+    "ir_abrakadabra": "Solve this math problem: {problem}\nThink of the spell 'abrakadabra'. Provide your final numerical answer."
+} 
