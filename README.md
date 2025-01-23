@@ -78,15 +78,3 @@ The script creates a new directory for each run with the format `{model-name}_re
 3. `prompt_comparison_test.jsonl.png`: Bar chart visualization showing:
    - Accuracy percentage for each prompt
    - Model name and number of problems evaluated
-
-## Understanding the Results
-
-- ✓ indicates a correct answer
-- ✗ indicates an incorrect answer
-- Accuracy is calculated as (correct answers / total attempts) * 100
-
-## Customization
-
-### Answer Extraction
-
-The script attempts to extract numerical answers from the model's responses. The extraction logic can be customized in the `extract_answer()` function if needed.
