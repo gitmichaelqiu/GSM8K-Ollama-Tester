@@ -17,6 +17,7 @@ pip install -r requirements.txt
 
 3. Download the test data:
 ```bash
+mkdir test_data
 cd test_data
 git clone https://github.com/openai/grade-school-math.git
 ```
