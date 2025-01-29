@@ -34,11 +34,6 @@ NUM_PROBLEMS = 10  # Number of problems to evaluate
 RANDOM_SEED = 42
 ```
 
-Modify these constants to change:
-- The model used for evaluation
-- The number of problems processed in each run
-- The random seed for problem selection (problems are randomly sampled from the test set)
-
 ### Configuring Prompts
 
 Prompts are defined in `prompts.json`. Each prompt should have a unique name and a template where `{problem}` will be replaced with the actual math problem.
