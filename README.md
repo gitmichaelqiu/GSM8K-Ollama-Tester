@@ -1,6 +1,6 @@
 # GSM8K-Ollama-Tester
 
-This tool evaluates different prompting strategies for solving mathematical problems using LLMs through Ollama.
+This tool evaluates different prompts for solving OpenAI's [GSM8K](https://github.com/openai/grade-school-math) problems using LLMs through Ollama.
 
 ## Setup
 
